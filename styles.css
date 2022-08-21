@@ -1,0 +1,21 @@
+*{
+    background-color: #808080;
+}
+
+#header{
+    color: silver;
+    font-style: oblique;
+}
+
+a:link{
+    color:darkgreen;
+}
+a:hover{
+    color:black;
+}
+a:visited{
+    color:white;
+}
+a:active{
+    color:rosybrown;
+}
